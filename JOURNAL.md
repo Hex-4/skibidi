@@ -42,3 +42,27 @@ To finish this session I brought everything into the PCB editor:
 
 _hours spent this session: 2_
 _total: 3_
+
+## Session 3 (Jul 4): PCB
+
+For this project I want to learn how to edit KiCad footprints. I'm going to add outlines for things like the PAM in silkscreen, just so I can see how my design will fit together a little better. I also want the PCB to look really nice, since I'm not making a case for this project.
+
+Here's the prettified amp footprint:
+
+![image](https://github.com/user-attachments/assets/9fd410fe-6a34-4da0-beaa-0df67df6dba0)
+
+I also realized that if I put the Xiao on the back this could go above it since it's longer than the Xiao:
+
+![image](https://github.com/user-attachments/assets/387afe2f-4a55-4fc2-96a1-4cd1ae343bbb)
+
+I arranged the rest of my parts - using the distribute and align tools for spacing - and the PCB was starting to take shape! I started prettifying the remaining footprints, and when I went to draw a circle for the speaker, I realized - this speaker was way too big. A search on DigiKey produced [this](https://www.digikey.ca/en/products/detail/ole-wolff-electronics-inc/OWS-131845W50A-8/17636883) new speaker which was only 7 cents more expensive and fit perfectly on my PCB.
+
+I added some text and PCB art, and started routing:
+
+![image](https://github.com/user-attachments/assets/19b2e0fb-4505-4070-8ef5-2905c103a6e3)
+
+That's all for today! I didn't get the whole thing done like I'd hoped but I'm pretty darn close. See you soon!
+
+_hours spent this session: 3_
+_total: 6_
+
