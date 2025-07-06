@@ -66,3 +66,23 @@ That's all for today! I didn't get the whole thing done like I'd hoped but I'm p
 _hours spent this session: 3_
 _total: 6_
 
+## Session 4 (Jul 5): Finalization
+
+I quickly finished routing and ran DRC. I had to stitch together some ground-fill islands and make some text bigger, but I then got to the point where my design was pretty much done. I was looking at my design one more time and realized that the power was feeding through my tiny capacitors, THEN to the NeoPixels. So sadly, I had to move my capacitors above the LEDs, which looks ugly, but if I had had them in their original spot they would have done nothing. I rouned off the corners using the Arc and Line tool, and then set about finding some PCB "art".
+
+![image](https://github.com/user-attachments/assets/719ade54-b78e-4eed-a220-9f2d52168384)
+
+Using the KiCad bitmap importer and exporting as footprints that I added to a local library, I added the Hack Club flag, a "how 2 bet gam", and some terrible PCB rules, when I... accidentally closed KiCad, and accidentally hit Discard Changes. 💀. I had to restart this session. This was actually a blessing in disguise, though, as I could rethink my wiring and make a bunch of improvments, including making the capacitors not look so ugly.
+
+![image](https://github.com/user-attachments/assets/7cbb48cb-9861-4ff0-80aa-48c2961872cf)
+
+I added a few more easter eggs and brainrot references, and with that, the Skibidi Soundboard was done!
+
+![image](https://github.com/user-attachments/assets/5672ccf8-e511-46e8-9f24-98bd332d3c62)
+
+I was scrolling around on r/kicad after this and found a plugin that could automatically round rectangles. Nice! I go to the plugin page and realize that this feature has BEEN IN KICAD THE WHOLE TIME. !?!?!?!. I rounded off all of my rectangles, making them look much nicer.
+
+_hours spent this session: 2_
+_total: 8_
+
+
